@@ -21,6 +21,7 @@ twitter_username: "rupeshtiwari_co"
 github_username: rupeshtiwari
 minimal_mistakes_skin: default
 search: true
+logo: "/assets/images/logo.jpg"
 
 # Change the repository name
 repository: "rupeshtiwari/vivekananda" 
