@@ -124,3 +124,5 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "https-www-rupeshtiwari-com-vivekananda"
+
+teaser: "/assets/images/logo.jpg"
