@@ -119,3 +119,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-www-rupeshtiwari-com-vivekananda"
