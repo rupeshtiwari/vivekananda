@@ -13,8 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Agni Mantra by Swami Vivekananda (स्वामी विवेकानंद)
-email:
+title: Agni Mantra
+subtitle: "Swami Vivekananda (स्वामी विवेकानंद)"
+email: roopkt@gmail.com
 description: महाशक्ति का तुममें संचार होगा - कदापि भय भीत मत होना। पवित्र होओ, विश्वासी होओ, और आज्ञापालक होओ।
 twitter_username: "rupeshtiwari_co"
 github_username: rupeshtiwari
@@ -60,7 +61,7 @@ plugins:
 author:
   name: "Rupesh Tiwari"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I help students and professionals to become Full Stack Software Developer in less than a year!"
+  bio: "स्वामी विवेकानंद मेरे आत्मा में!"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
