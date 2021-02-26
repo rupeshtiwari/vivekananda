@@ -58,7 +58,7 @@ def write_posts(posts, verbose)
   posts.each do |post|
     file_name = "_posts/".concat(post["file_name"])
     header = %{---           
-layout: post
+
 title: #{post["title"]}
 date: #{post["creation_datetime"]}
 updated: #{post["updated_datetime"]}

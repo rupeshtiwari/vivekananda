@@ -13,19 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Agni Mantra by Swami Vivekananda (स्वामी विवेकानंद)
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+description: महाशक्ति का तुममें संचार होगा - कदापि भय भीत मत होना। पवित्र होओ, विश्वासी होओ, और आज्ञापालक होओ।
+twitter_username: "rupeshtiwari_co"
+github_username: rupeshtiwari
 minimal_mistakes_skin: default
 search: true
 
 # Change the repository name
-repository: "mmistakes/minimal-mistakes" 
+repository: "rupeshtiwari/vivekananda" 
 
 # Build settings
 markdown: kramdown
@@ -61,34 +58,38 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Rupesh Tiwari"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I help students and professionals to become Full Stack Software Developer in less than a year!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "fullstackmaster1@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "http://twitter.com/rupeshtiwari_co"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/roopkt"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rupesh-tiwari"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "http://github.com/rupeshtiwari"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Rupesh Tiwari"
+      icon: "fas fa-registered"
+      url: "https://www.rupeshtiwari.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/roopkt"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rupesh-tiwari"
+   
 
 defaults:
   # _posts
