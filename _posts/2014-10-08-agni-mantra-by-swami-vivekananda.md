@@ -3,7 +3,7 @@
 title: अग्नी मंत्र (स्वामी विवेकानन्द)
 date: 2014-10-08 11:14:28 UTC
 updated: 2014-10-08 11:14:28 UTC
-comments: false
+comments: true
 description: उठो जागो तत्त्वम् असि
 tags: 
  - vivekananda

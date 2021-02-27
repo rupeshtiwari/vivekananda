@@ -3,7 +3,7 @@
 title: स्वामी विवेकानन्द जी का जीवन
 date: 2006-05-04 14:32:39 UTC
 updated: 2006-05-04 14:32:39 UTC
-comments: false
+comments: true
 categories: 
 tags: 
  - vivekananda

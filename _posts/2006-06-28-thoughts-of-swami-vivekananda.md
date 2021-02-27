@@ -3,7 +3,7 @@
 title: स्वामी विवेकानन्द जी के विचार
 date: 2006-06-28 12:45:44 UTC
 updated: 2006-06-28 12:45:44 UTC
-comments: false
+comments: true
 categories: 
 tags: 
  - vivekananda
