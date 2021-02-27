@@ -93,7 +93,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rupesh-tiwari"
-   
+    - label: "Fullstack Master"
+      icon: "fas fa-graduation-cap"
+      url: "https://www.fullstackmaster.net"
 
 defaults:
   # _posts
