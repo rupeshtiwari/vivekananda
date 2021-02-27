@@ -136,5 +136,5 @@ bing_site_verification: bing_site_verification: 8BC08291167B3E15CC4FCC21C5895052
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-128916623-7"
+    tracking_id: "UA-128916623-8"
     anonymize_ip: false # default
