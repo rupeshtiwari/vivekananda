@@ -2,7 +2,7 @@
 title: स्वामी विवेकानन्द जी के भाषण
 date: 2015-04-30 23:01:47 UTC
 updated: 2015-04-30 23:01:47 UTC
-comments: false
+comments: true
 categories: 
 tags: 
  - vivekananda
