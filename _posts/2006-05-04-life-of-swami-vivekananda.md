@@ -3,7 +3,7 @@ title: स्वामी विवेकानन्द जी का जीव
 date: 2006-05-04 14:32:39 UTC
 updated: 2006-05-04 14:32:39 UTC
 comments: true
-categories: 
+categories: spiritual 
 tags: 
  - vivekananda
  - life

@@ -3,7 +3,7 @@ title: स्वामी विवेकानन्द जी का स्व
 date: 2006-05-07 13:13:40 UTC
 updated: 2006-05-07 13:13:40 UTC
 comments: true
-categories: 
+categories: spiritual 
 tags: 
  - vivekananda
  - health

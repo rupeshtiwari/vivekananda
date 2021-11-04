@@ -4,6 +4,7 @@ description: उपनिषद गीता निती शतकम विव
 date: 2007-02-06 15:40:45 UTC
 updated: 2007-02-06 15:40:45 UTC
 comments: true
+categories: spiritual 
 tags: 
  - vivekananda
  - upanishad

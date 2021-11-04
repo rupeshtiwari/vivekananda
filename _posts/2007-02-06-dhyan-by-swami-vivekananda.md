@@ -3,6 +3,7 @@ title: ध्यान
 date: 2007-02-06 12:42:45 UTC
 updated: 2007-02-06 12:42:45 UTC
 comments: true
+categories: spiritual 
 tags: 
  - vivekananda
  - meditation

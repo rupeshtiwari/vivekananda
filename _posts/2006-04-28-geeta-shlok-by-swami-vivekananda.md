@@ -3,7 +3,7 @@ title: गीता स्लोकार्थ (आभारित विवे
 date: 2006-04-28 07:54:38 UTC
 updated: 2006-04-28 07:54:38 UTC
 comments: true
-categories: 
+categories: spiritual
 tags: 
  - vivekananda
  - geeta

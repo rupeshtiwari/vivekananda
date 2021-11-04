@@ -3,7 +3,7 @@ title: स्वामी विवेकानन्द जी के विच
 date: 2006-06-28 12:45:44 UTC
 updated: 2006-06-28 12:45:44 UTC
 comments: true
-categories: 
+categories: spiritual 
 tags: 
  - vivekananda
  - thoughts

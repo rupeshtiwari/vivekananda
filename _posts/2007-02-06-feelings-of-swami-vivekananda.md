@@ -4,6 +4,7 @@ description: तितिक्षा वैराग्य समाधि
 date: 2007-02-06 15:42:23 UTC
 updated: 2007-02-06 15:42:23 UTC
 comments: true
+categories: spiritual 
 tags: 
  - vivekananda
  - experience

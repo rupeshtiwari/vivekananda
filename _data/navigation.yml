@@ -1,5 +1,5 @@
 main:
-  - title: "Tags"
+  - title: 'Posts'
     url: /tags/
-  - title: "Rupesh"
-    url: "https://rupeshtiwari.com"
+  - title: 'Rupesh'
+    url: 'https://rupeshtiwari.com'
